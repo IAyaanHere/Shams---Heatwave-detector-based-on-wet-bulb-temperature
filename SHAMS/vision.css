@@ -1,0 +1,8 @@
+.bg-gray-100 {
+    font-family: 'Arial', sans-serif;
+    background-color: rgba(240, 146, 14, 0.1);
+    position: relative;
+    align-items: center;
+    min-height: 100vh; /* Ensure content covers the full viewport height */
+  }
+  
